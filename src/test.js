@@ -16,3 +16,9 @@ console.log(iter.next());
 console.log(iter.next());
 console.log(iter.next());
 console.log(iter.next());
+
+console.log('hgjghnfgnf');
+const num = 6
+if (num) {
+    console.log('hgfjgfjnfgjf');
+}
